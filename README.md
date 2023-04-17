@@ -8,10 +8,10 @@ Asana Test Case Generator is a Python script that utilizes Asana and OpenAI APIs
 `pip install -r requirements.txt`
 
 3. Create a .env file in the project root directory and add the following environment variables:
-'''
+```
 ASANA_API_KEY=<your_asana_api_key>
 OPENAI_API_KEY=<your_openai_api_key>
-'''
+```
 
 ## Usage
 Run the script with the following command:
